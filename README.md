@@ -2,6 +2,7 @@
 
   #  **About Me💫:**
 BCA ’27 | Exploring AI Ops ⚙️ | Node Deps 👷‍♂️
+
 Building, breaking and learning how modern systems actually work onchain + offchain.
 
 </div>
