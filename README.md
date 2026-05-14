@@ -1,7 +1,8 @@
 <div align="center">
 
   #  **About Me💫:**
-Ai Ops⚙️ and Node Deps👷‍♂️
+BCA ’27 | Exploring AI Ops ⚙️ | Node Deps 👷‍♂️
+Building, breaking and learning how modern systems actually work onchain + offchain.
 
 </div>
 
